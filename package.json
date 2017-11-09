@@ -26,7 +26,8 @@
       "ts-node/register"
     ],
     "reporter": [
-      "html"
+      "html",
+      "lcov"
     ],
     "all": true
   },
